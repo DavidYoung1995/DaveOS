@@ -1,0 +1,5 @@
+#Binary/Compiled Output
+*.bin
+*.obj
+obj/
+*.*~
